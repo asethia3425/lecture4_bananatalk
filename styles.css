@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+
+.txt-input{
+    display: block;;
+    border: black solid 1px;
+    padding: 1rem;
+    margin: 1rem;
+    width: 80%;
+    height: 10vh;
+
+
+}
+.output{
+    display: block;;
+    border: black solid 1px;
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+    width: 80%;
+    height: 10vh;
+
+
+}
